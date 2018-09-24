@@ -1,0 +1,23 @@
+* {
+/*	border: 1px solid red !important;*/
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: 'Playfair Display', serif;
+}
+
+h1 {
+
+    font-size: 4rem;
+    text-align: center;
+    padding-top: 4rem;
+    margin-bottom: 0.3rem;
+}
+
+h2 {
+    font-weight: 400;
+    font-style: italic;
+    text-align: center;
+    margin-top: 0;
+}
